@@ -77,12 +77,12 @@ git push origin fitur-baru
 ## Lisensi 📄
 MIT License
 
-Copyright © 2024 [ijajkeyboard](https://github.com/ijajkeyboard)
+Copyright © 2025 [ijajkeyboard](https://github.com/IJAJM)
 
 ---
 
 **Developed with ❤️ by ijajkeyboard**  
-📧 Contact: [your-email@example.com](mailto:ijajkeyboard001@gmail.com)
+📧 Contact: [ijajkeyboard001@gmail.com](mailto:ijajkeyboard001@gmail.com)
 ```
 
 Tips penggunaan:
