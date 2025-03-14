@@ -1,5 +1,3 @@
-Berikut README.md untuk proyek tabel harga mobil mewah:
-
 ```markdown
 # Luxury Car Price List 2025 🚗💨
 
