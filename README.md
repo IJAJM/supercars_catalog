@@ -82,7 +82,7 @@ Copyright © 2024 [ijajkeyboard](https://github.com/ijajkeyboard)
 ---
 
 **Developed with ❤️ by ijajkeyboard**  
-📧 Contact: [your-email@example.com](mailto:your-email@example.com)
+📧 Contact: [your-email@example.com](mailto:ijajkeyboard001@gmail.com)
 ```
 
 Tips penggunaan:
